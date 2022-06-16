@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="How to do it and who should be involved" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION E: ACCESSIBILITY ASSESSMENTS" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_4165">
+				<text src="toolkit_e.html#d2e933" id="txt_4165" />
+			</par>
+			<par endsync="last" id="par_4166">
+				<text src="toolkit_e.html#id_467" id="txt_4166" />
+			</par>
+			<par endsync="last" id="par_4167">
+				<text src="toolkit_e.html#id_469" id="txt_4167" />
+			</par>
+			<par endsync="last" id="par_4168">
+				<text src="toolkit_e.html#id_470" id="txt_4168" />
+			</par>
+			<par endsync="last" id="par_4169">
+				<text src="toolkit_e.html#p23" id="txt_4169" />
+			</par>
+			<par endsync="last" id="par_4170">
+				<text src="toolkit_e.html#id_471" id="txt_4170" />
+			</par>
+			<par endsync="last" id="par_4171">
+				<text src="toolkit_e.html#id_473" id="txt_4171" />
+			</par>
+			<par endsync="last" id="par_4172">
+				<text src="toolkit_e.html#id_474" id="txt_4172" />
+			</par>
+			<par endsync="last" id="par_4173">
+				<text src="toolkit_e.html#id_475" id="txt_4173" />
+			</par>
+			<par endsync="last" id="par_4174">
+				<text src="toolkit_e.html#id_477" id="txt_4174" />
+			</par>
+			<par endsync="last" id="par_4175">
+				<text src="toolkit_e.html#id_478" id="txt_4175" />
+			</par>
+			<par endsync="last" id="par_4176">
+				<text src="toolkit_e.html#id_479" id="txt_4176" />
+			</par>
+			<par endsync="last" id="par_4177">
+				<text src="toolkit_e.html#id_480" id="txt_4177" />
+			</par>
+		</seq>
+	</body>
+</smil>

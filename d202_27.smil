@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="TIP 6: Revise and update existing assessment tools" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION E: ACCESSIBILITY ASSESSMENTS" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_4206">
+				<text src="toolkit_e.html#d2e1049" id="txt_4206" />
+			</par>
+			<par endsync="last" id="par_4207">
+				<text src="toolkit_e.html#id_525" id="txt_4207" />
+			</par>
+			<par endsync="last" id="par_4208">
+				<text src="toolkit_e.html#id_527" id="txt_4208" />
+			</par>
+			<par endsync="last" id="par_4209">
+				<text src="toolkit_e.html#p27" id="txt_4209" />
+			</par>
+		</seq>
+	</body>
+</smil>
